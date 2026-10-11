@@ -1,0 +1,18 @@
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de editores
+.vscode/
+
+# Archivos de entorno con datos privados
+.env
+.env.*
+
+# Dependencias de Node.js, si se utiliza
+node_modules/
+
+# Archivos de registro
+*.log
